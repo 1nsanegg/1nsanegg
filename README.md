@@ -1,4 +1,4 @@
-👋 Hi there, I'm 1nsanegg!
+👋 Hi there, I'm Trevor!
 🔭 Currently working in the IT field
 🌱 Learning Python & improving my coding skills
 🤝 Open to collaboration on exciting projects
